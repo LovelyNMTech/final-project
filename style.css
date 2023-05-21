@@ -283,7 +283,7 @@ textarea.w-input {
     display: none 
 }
 
-@media screen and (max-width:401px) {
+@media screen and (max-width:990px) {
     .w-col-stack {
         width: 100%;
         left: auto;
